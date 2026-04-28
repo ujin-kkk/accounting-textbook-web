@@ -1,6 +1,6 @@
 # Accounting, From First Principles
 
-An interactive web textbook introducing accounting from the ground up — built for IB Business and Management students with no prior background.
+An interactive web textbook introducing accounting from the ground up — built for teens with no prior background.
 
 🌐 **Live site:** https://ujin-kkk.github.io/accounting-textbook-web/
 
