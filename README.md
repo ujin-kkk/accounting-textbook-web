@@ -2,8 +2,6 @@
 
 An interactive web textbook introducing accounting from the ground up — built for teens with no prior background.
 
-🌐 **Live site:** https://ujin-kkk.github.io/accounting-textbook-web/
-
 ## About
 
 A self-paced digital textbook designed so students with zero accounting background can follow from page one. Eight Parts, forty chapters, with worked examples, instant-feedback quizzes, glossaries, and case studies on real US public companies (Apple, Microsoft, Tesla, Delta, Marriott, and more).
